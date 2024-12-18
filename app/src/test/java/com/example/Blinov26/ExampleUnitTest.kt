@@ -1,4 +1,4 @@
-package com.example.kuznetsovpr22_102_pz26
+package com.example.Blinov26
 
 import org.junit.Test
 

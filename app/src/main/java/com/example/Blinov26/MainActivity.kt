@@ -1,4 +1,4 @@
-package com.example.kuznetsovpr22_102_pz26
+package com.example.Blinov26
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -71,7 +71,7 @@ import androidx.navigation.NavController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.kuznetsovpr22_102_pz26.ui.theme.KuznetsovPR22_102_Pz26Theme
+import com.example.Blinov26.ui.theme.Blinov26Theme
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.MapView
@@ -84,10 +84,10 @@ import kotlinx.coroutines.flow.StateFlow
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        setTheme(R.style.Theme_KuznetsovPR22_102_Pz26)
+        setTheme(R.style.Theme_Blinov26)
         super.onCreate(savedInstanceState)
         setContent {
-            KuznetsovPR22_102_Pz26Theme {
+            Blinov26Theme {
                 WalletApp()
             }
         }

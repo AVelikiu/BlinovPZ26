@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kuznetsovpr22_102_pz26"
+    namespace = "com.example.Blinov26"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.kuznetsovpr22_102_pz26"
+        applicationId = "com.example.Blinov26"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

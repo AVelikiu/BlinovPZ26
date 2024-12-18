@@ -1,4 +1,4 @@
-package com.example.kuznetsovpr22_102_pz26.ui.theme
+package com.example.Blinov26.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

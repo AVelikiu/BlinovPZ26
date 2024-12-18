@@ -1,6 +1,5 @@
-package com.example.kuznetsovpr22_102_pz26.ui.theme
+package com.example.Blinov26.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -34,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun KuznetsovPR22_102_Pz26Theme(
+fun Blinov26Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

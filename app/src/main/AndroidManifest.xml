@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ico_logotype"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KuznetsovPR22_102_Pz26">
+        android:theme="@style/Theme.Blinov26">
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
